@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+
+int main()
+
+{
+	int numberofcars = 3;
+	int carmiles[] = { 15, 13, 15};
+	string carmanufacturers[]{ "saab", "volvo", "bmw" };
+
+	cout << carmanufacturers[0] << endl;
+	cout << carmanufacturers[1] << endl;
+	cout << carmanufacturers[2] << endl;
+
+
+
+
+
+
+
+	cout << " Number of cars:" << numberofcars << endl;
+	return 0;
